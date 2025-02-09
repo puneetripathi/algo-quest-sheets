@@ -1,0 +1,258 @@
+[
+  {
+    sheetId: "blind-75",
+    sheetName: "Blind 75",
+    problems: [
+      {
+        title: "Two Sum",
+        difficulty: "easy",
+        status: "solved",
+        platforms: [
+          {
+            name: "ltc",
+            link: "https://leetcode.com/problems/two-sum/"
+          },
+          {
+            name: "cn",
+            link: "https://www.naukri.com/code360/problems/two-sum_839653"
+          },
+          {
+            name: "gfg",
+            link: "https://www.geeksforgeeks.org/problems/key-pair5616/1"
+          }
+        ]
+      },
+      {
+        title: "Longest Substring Without Repeating Characters",
+        difficulty: "medium",
+        status: "solved",
+        platforms: [
+          {
+            name: "ltc",
+            link: "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+          }
+        ]
+      },
+      {
+        title: "Median of Two Sorted Arrays",
+        difficulty: "hard",
+        status: "unsolved",
+        platforms: [
+          {
+            name: "ltc",
+            link: "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+          }
+        ]
+      },
+      {
+        title: "Binary Tree Level Order Traversal",
+        difficulty: "medium",
+        status: "solved",
+        platforms: [
+          {
+            name: "ltc",
+            link: "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+          }
+        ]
+      },
+      {
+        title: "Regular Expression Matching",
+        difficulty: "hard",
+        status: "locked",
+        platforms: [
+          {
+            name: "ltc",
+            link: "https://leetcode.com/problems/regular-expression-matching/"
+          }
+        ]
+      }
+    ],
+    author: "web"
+  },
+  {
+    sheetId: "striver-sde-sheet",
+    sheetName: "Striver's SDE Sheet",
+    problems: [
+      {
+        title: "Set Matrix Zeroes",
+        difficulty: "medium",
+        status: "unsolved",
+        platforms: [
+          {
+            name: "ltc",
+            link: "https://leetcode.com/problems/set-matrix-zeroes/"
+          }
+        ]
+      },
+      {
+        title: "Pascal's Triangle",
+        difficulty: "easy",
+        status: "unsolved",
+        platforms: [
+          {
+            name: "ltc",
+            link: "https://leetcode.com/problems/pascals-triangle/"
+          }
+        ]
+      },
+      {
+        title: "Next Permutation",
+        difficulty: "medium",
+        status: "unsolved",
+        platforms: [
+          {
+            name: "ltc",
+            link: "https://leetcode.com/problems/next-permutation/"
+          }
+        ]
+      },
+      {
+        title: "Kadane's Algorithm",
+        difficulty: "medium",
+        status: "unsolved",
+        platforms: [
+          {
+            name: "gfg",
+            link: "https://www.geeksforgeeks.org/kadanes-algorithm-maximum-subarray-sum-in-an-array/"
+          }
+        ]
+      },
+      {
+        title: "Sort Colors",
+        difficulty: "medium",
+        status: "unsolved",
+        platforms: [
+          {
+            name: "ltc",
+            link: "https://leetcode.com/problems/sort-colors/"
+          }
+        ]
+      }
+    ],
+    author: "web"
+  },
+  {
+    sheetId: "love-babbar-dsa-sheet",
+    sheetName: "Love Babbar DSA Sheet",
+    problems: [
+      {
+        title: "Reverse the array",
+        difficulty: "easy",
+        status: "unsolved",
+        platforms: [
+          {
+            name: "gfg",
+            link: "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/"
+          }
+        ]
+      },
+      {
+        title: "Find the maximum and minimum element in an array",
+        difficulty: "easy",
+        status: "unsolved",
+        platforms: [
+          {
+            name: "gfg",
+            link: "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/"
+          }
+        ]
+      },
+      {
+        title: "Kth smallest element",
+        difficulty: "medium",
+        status: "unsolved",
+        platforms: [
+          {
+            name: "gfg",
+            link: "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/"
+          }
+        ]
+      },
+      {
+        title: "Sort an array of 0s, 1s and 2s",
+        difficulty: "easy",
+        status: "unsolved",
+        platforms: [
+          {
+            name: "gfg",
+            link: "https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/"
+          }
+        ]
+      },
+      {
+        title: "Move all negative numbers to beginning and positive to end",
+        difficulty: "easy",
+        status: "unsolved",
+        platforms: [
+          {
+            name: "gfg",
+            link: "https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/"
+          }
+        ]
+      }
+    ],
+    author: "web"
+  },
+  {
+    sheetId: "neetcode-150",
+    sheetName: "NeetCode 150",
+    problems: [
+      {
+        title: "Contains Duplicate",
+        difficulty: "easy",
+        status: "unsolved",
+        platforms: [
+          {
+            name: "ltc",
+            link: "https://leetcode.com/problems/contains-duplicate/"
+          }
+        ]
+      },
+      {
+        title: "Valid Anagram",
+        difficulty: "easy",
+        status: "unsolved",
+        platforms: [
+          {
+            name: "ltc",
+            link: "https://leetcode.com/problems/valid-anagram/"
+          }
+        ]
+      },
+      {
+        title: "Group Anagrams",
+        difficulty: "medium",
+        status: "unsolved",
+        platforms: [
+          {
+            name: "ltc",
+            link: "https://leetcode.com/problems/group-anagrams/"
+          }
+        ]
+      },
+      {
+        title: "Top K Frequent Elements",
+        difficulty: "medium",
+        status: "unsolved",
+        platforms: [
+          {
+            name: "ltc",
+            link: "https://leetcode.com/problems/top-k-frequent-elements/"
+          }
+        ]
+      },
+      {
+        title: "Product of Array Except Self",
+        difficulty: "medium",
+        status: "unsolved",
+        platforms: [
+          {
+            name: "ltc",
+            link: "https://leetcode.com/problems/product-of-array-except-self/"
+          }
+        ]
+      }
+    ],
+    author: "web"
+  }
+]
