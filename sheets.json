@@ -2,7 +2,7 @@
   {
     "dsa_sheet_id": "blind-75",
     "dsa_sheet_name": "Blind 75",
-    "dsa_sheet_description": "",
+    "dsa_sheet_description": "This is blind 75 sde sheet",
     "dsa_sheet_problems": [
       {
         "problem_id": "two-sum",
@@ -57,7 +57,7 @@
   {
     "dsa_sheet_id": "striver-sde-sheet",
     "dsa_sheet_name": "Striver's SDE Sheet",
-    "dsa_sheet_description": "",
+    "dsa_sheet_description": "Striver's personal sheet",
     "dsa_sheet_problems": [
       {
         "problem_id": "set-matrix-zeroes",
@@ -110,7 +110,7 @@
   {
     "dsa_sheet_id": "love-babbar-dsa-sheet",
     "dsa_sheet_name": "Love Babbar DSA Sheet",
-    "dsa_sheet_description": "",
+    "dsa_sheet_description": "Love Babbar recommended problems",
     "dsa_sheet_problems": [
       {
         "problem_id": "reverse-the-array",
@@ -163,7 +163,7 @@
   {
     "dsa_sheet_id": "neetcode-150",
     "dsa_sheet_name": "NeetCode 150",
-    "dsa_sheet_description": "",
+    "dsa_sheet_description": "All hail neetcode!",
     "dsa_sheet_problems": [
       {
         "problem_id": "contains-duplicate",
