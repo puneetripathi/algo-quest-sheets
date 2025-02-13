@@ -1,258 +1,216 @@
 [
   {
-    "sheetId": "blind-75",
-    "sheetName": "Blind 75",
-    "problems": [
+    "dsa_sheet_id": "blind-75",
+    "dsa_sheet_name": "Blind 75",
+    "dsa_sheet_description": "",
+    "dsa_sheet_problems": [
       {
-        "title": "Two Sum",
-        "difficulty": "easy",
-        "status": "solved",
-        "platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/two-sum/"
-          },
-          {
-            "name": "cn",
-            "link": "https://www.naukri.com/code360/problems/two-sum_839653"
-          },
-          {
-            "name": "gfg",
-            "link": "https://www.geeksforgeeks.org/problems/key-pair5616/1"
-          }
+        "problem_id": "two-sum",
+        "problem_name": "Two Sum",
+        "problem_difficulty": "easy",
+        "problem_status": "solved",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/two-sum/" },
+          { "name": "cn", "link": "https://www.naukri.com/code360/problems/two-sum_839653" },
+          { "name": "gfg", "link": "https://www.geeksforgeeks.org/problems/key-pair5616/1" }
         ]
       },
       {
-        "title": "Longest Substring Without Repeating Characters",
-        "difficulty": "medium",
-        "status": "solved",
-        "platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
-          }
+        "problem_id": "longest-substring-without-repeating-characters",
+        "problem_name": "Longest Substring Without Repeating Characters",
+        "problem_difficulty": "medium",
+        "problem_status": "solved",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/" }
         ]
       },
       {
-        "title": "Median of Two Sorted Arrays",
-        "difficulty": "hard",
-        "status": "unsolved",
-        "platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
-          }
+        "problem_id": "median-of-two-sorted-arrays",
+        "problem_name": "Median of Two Sorted Arrays",
+        "problem_difficulty": "hard",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/" }
         ]
       },
       {
-        "title": "Binary Tree Level Order Traversal",
-        "difficulty": "medium",
-        "status": "solved",
-        "platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
-          }
+        "problem_id": "binary-tree-level-order-traversal",
+        "problem_name": "Binary Tree Level Order Traversal",
+        "problem_difficulty": "medium",
+        "problem_status": "solved",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/binary-tree-level-order-traversal/" }
         ]
       },
       {
-        "title": "Regular Expression Matching",
-        "difficulty": "hard",
-        "status": "locked",
-        "platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/regular-expression-matching/"
-          }
+        "problem_id": "regular-expression-matching",
+        "problem_name": "Regular Expression Matching",
+        "problem_difficulty": "hard",
+        "problem_status": "locked",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/regular-expression-matching/" }
         ]
       }
     ],
-    "author": "web"
+    "dsa_sheet_author": "web"
   },
   {
-    "sheetId": "striver-sde-sheet",
-    "sheetName": "Striver's SDE Sheet",
-    "problems": [
+    "dsa_sheet_id": "striver-sde-sheet",
+    "dsa_sheet_name": "Striver's SDE Sheet",
+    "dsa_sheet_description": "",
+    "dsa_sheet_problems": [
       {
-        "title": "Set Matrix Zeroes",
-        "difficulty": "medium",
-        "status": "unsolved",
-        "platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/set-matrix-zeroes/"
-          }
+        "problem_id": "set-matrix-zeroes",
+        "problem_name": "Set Matrix Zeroes",
+        "problem_difficulty": "medium",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/set-matrix-zeroes/" }
         ]
       },
       {
-        "title": "Pascal's Triangle",
-        "difficulty": "easy",
-        "status": "unsolved",
-        "platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/pascals-triangle/"
-          }
+        "problem_id": "pascals-triangle",
+        "problem_name": "Pascal's Triangle",
+        "problem_difficulty": "easy",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/pascals-triangle/" }
         ]
       },
       {
-        "title": "Next Permutation",
-        "difficulty": "medium",
-        "status": "unsolved",
-        "platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/next-permutation/"
-          }
+        "problem_id": "next-permutation",
+        "problem_name": "Next Permutation",
+        "problem_difficulty": "medium",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/next-permutation/" }
         ]
       },
       {
-        "title": "Kadane's Algorithm",
-        "difficulty": "medium",
-        "status": "unsolved",
-        "platforms": [
-          {
-            "name": "gfg",
-            "link": "https://www.geeksforgeeks.org/kadanes-algorithm-maximum-subarray-sum-in-an-array/"
-          }
+        "problem_id": "kadanes-algorithm",
+        "problem_name": "Kadane's Algorithm",
+        "problem_difficulty": "medium",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "gfg", "link": "https://www.geeksforgeeks.org/kadanes-algorithm-maximum-subarray-sum-in-an-array/" }
         ]
       },
       {
-        "title": "Sort Colors",
-        "difficulty": "medium",
-        "status": "unsolved",
-        "platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/sort-colors/"
-          }
+        "problem_id": "sort-colors",
+        "problem_name": "Sort Colors",
+        "problem_difficulty": "medium",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/sort-colors/" }
         ]
       }
     ],
-    "author": "web"
+    "dsa_sheet_author": "web"
   },
   {
-    "sheetId": "love-babbar-dsa-sheet",
-    "sheetName": "Love Babbar DSA Sheet",
-    "problems": [
+    "dsa_sheet_id": "love-babbar-dsa-sheet",
+    "dsa_sheet_name": "Love Babbar DSA Sheet",
+    "dsa_sheet_description": "",
+    "dsa_sheet_problems": [
       {
-        "title": "Reverse the array",
-        "difficulty": "easy",
-        "status": "unsolved",
-        "platforms": [
-          {
-            "name": "gfg",
-            "link": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/"
-          }
+        "problem_id": "reverse-the-array",
+        "problem_name": "Reverse the array",
+        "problem_difficulty": "easy",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "gfg", "link": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/" }
         ]
       },
       {
-        "title": "Find the maximum and minimum element in an array",
-        "difficulty": "easy",
-        "status": "unsolved",
-        "platforms": [
-          {
-            "name": "gfg",
-            "link": "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/"
-          }
+        "problem_id": "find-the-maximum-and-minimum-element-in-an-array",
+        "problem_name": "Find the maximum and minimum element in an array",
+        "problem_difficulty": "easy",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "gfg", "link": "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/" }
         ]
       },
       {
-        "title": "Kth smallest element",
-        "difficulty": "medium",
-        "status": "unsolved",
-        "platforms": [
-          {
-            "name": "gfg",
-            "link": "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/"
-          }
+        "problem_id": "kth-smallest-element",
+        "problem_name": "Kth smallest element",
+        "problem_difficulty": "medium",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "gfg", "link": "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/" }
         ]
       },
       {
-        "title": "Sort an array of 0s, 1s and 2s",
-        "difficulty": "easy",
-        "status": "unsolved",
-        "platforms": [
-          {
-            "name": "gfg",
-            "link": "https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/"
-          }
+        "problem_id": "sort-an-array-of-0s-1s-and-2s",
+        "problem_name": "Sort an array of 0s, 1s and 2s",
+        "problem_difficulty": "easy",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "gfg", "link": "https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/" }
         ]
       },
       {
-        "title": "Move all negative numbers to beginning and positive to end",
-        "difficulty": "easy",
-        "status": "unsolved",
-        "platforms": [
-          {
-            "name": "gfg",
-            "link": "https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/"
-          }
+        "problem_id": "move-all-negative-numbers-to-beginning-and-positive-to-end",
+        "problem_name": "Move all negative numbers to beginning and positive to end",
+        "problem_difficulty": "easy",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "gfg", "link": "https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/" }
         ]
       }
     ],
-    "author": "web"
+    "dsa_sheet_author": "web"
   },
   {
-    "sheetId": "neetcode-150",
-    "sheetName": "NeetCode 150",
-    "problems": [
+    "dsa_sheet_id": "neetcode-150",
+    "dsa_sheet_name": "NeetCode 150",
+    "dsa_sheet_description": "",
+    "dsa_sheet_problems": [
       {
-        "title": "Contains Duplicate",
-        "difficulty": "easy",
-        "status": "unsolved",
-        "platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/contains-duplicate/"
-          }
+        "problem_id": "contains-duplicate",
+        "problem_name": "Contains Duplicate",
+        "problem_difficulty": "easy",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/contains-duplicate/" }
         ]
       },
       {
-        "title": "Valid Anagram",
-        "difficulty": "easy",
-        "status": "unsolved",
-        "platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/valid-anagram/"
-          }
+        "problem_id": "valid-anagram",
+        "problem_name": "Valid Anagram",
+        "problem_difficulty": "easy",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/valid-anagram/" }
         ]
       },
       {
-        "title": "Group Anagrams",
-        "difficulty": "medium",
-        "status": "unsolved",
-        "platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/group-anagrams/"
-          }
+        "problem_id": "group-anagrams",
+        "problem_name": "Group Anagrams",
+        "problem_difficulty": "medium",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/group-anagrams/" }
         ]
       },
       {
-        "title": "Top K Frequent Elements",
-        "difficulty": "medium",
-        "status": "unsolved",
-        "platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/top-k-frequent-elements/"
-          }
+        "problem_id": "top-k-frequent-elements",
+        "problem_name": "Top K Frequent Elements",
+        "problem_difficulty": "medium",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/top-k-frequent-elements/" }
         ]
       },
       {
-        "title": "Product of Array Except Self",
-        "difficulty": "medium",
-        "status": "unsolved",
-        "platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/product-of-array-except-self/"
-          }
+        "problem_id": "product-of-array-except-self",
+        "problem_name": "Product of Array Except Self",
+        "problem_difficulty": "medium",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/product-of-array-except-self/" }
         ]
       }
     ],
-    "author": "web"
+    "dsa_sheet_author": "web"
   }
 ]
