@@ -10,10 +10,9 @@
         "problem_difficulty": "easy",
         "problem_status": "solved",
         "problem_platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/two-sum"
-          }
+          { "name": "ltc", "link": "https://leetcode.com/problems/two-sum/" },
+          { "name": "cn", "link": "https://www.naukri.com/code360/problems/two-sum_839653" },
+          { "name": "gfg", "link": "https://www.geeksforgeeks.org/problems/key-pair5616/1" }
         ]
       },
       {
@@ -22,10 +21,7 @@
         "problem_difficulty": "medium",
         "problem_status": "solved",
         "problem_platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
-          }
+          { "name": "ltc", "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/" }
         ]
       },
       {
@@ -34,10 +30,7 @@
         "problem_difficulty": "hard",
         "problem_status": "unsolved",
         "problem_platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
-          }
+          { "name": "ltc", "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/" }
         ]
       },
       {
@@ -46,10 +39,7 @@
         "problem_difficulty": "medium",
         "problem_status": "solved",
         "problem_platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/binary-tree-level-order-traversal"
-          }
+          { "name": "ltc", "link": "https://leetcode.com/problems/binary-tree-level-order-traversal/" }
         ]
       },
       {
@@ -58,10 +48,7 @@
         "problem_difficulty": "hard",
         "problem_status": "locked",
         "problem_platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/regular-expression-matching"
-          }
+          { "name": "ltc", "link": "https://leetcode.com/problems/regular-expression-matching/" }
         ]
       }
     ],
@@ -78,10 +65,7 @@
         "problem_difficulty": "medium",
         "problem_status": "unsolved",
         "problem_platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/set-matrix-zeroes"
-          }
+          { "name": "ltc", "link": "https://leetcode.com/problems/set-matrix-zeroes/" }
         ]
       },
       {
@@ -90,10 +74,7 @@
         "problem_difficulty": "easy",
         "problem_status": "unsolved",
         "problem_platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/pascals-triangle"
-          }
+          { "name": "ltc", "link": "https://leetcode.com/problems/pascals-triangle/" }
         ]
       },
       {
@@ -102,10 +83,7 @@
         "problem_difficulty": "medium",
         "problem_status": "unsolved",
         "problem_platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/next-permutation"
-          }
+          { "name": "ltc", "link": "https://leetcode.com/problems/next-permutation/" }
         ]
       },
       {
@@ -114,10 +92,7 @@
         "problem_difficulty": "medium",
         "problem_status": "unsolved",
         "problem_platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/maximum-subarray"
-          }
+          { "name": "gfg", "link": "https://www.geeksforgeeks.org/kadanes-algorithm-maximum-subarray-sum-in-an-array/" }
         ]
       },
       {
@@ -126,10 +101,113 @@
         "problem_difficulty": "medium",
         "problem_status": "unsolved",
         "problem_platforms": [
-          {
-            "name": "ltc",
-            "link": "https://leetcode.com/problems/sort-colors"
-          }
+          { "name": "ltc", "link": "https://leetcode.com/problems/sort-colors/" }
+        ]
+      }
+    ],
+    "dsa_sheet_author": "web"
+  },
+  {
+    "dsa_sheet_id": "love-babbar-dsa-sheet",
+    "dsa_sheet_name": "Love Babbar DSA Sheet",
+    "dsa_sheet_description": "Love Babbar recommended problems",
+    "dsa_sheet_problems": [
+      {
+        "problem_id": "reverse-the-array",
+        "problem_name": "Reverse the array",
+        "problem_difficulty": "easy",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "gfg", "link": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/" }
+        ]
+      },
+      {
+        "problem_id": "find-the-maximum-and-minimum-element-in-an-array",
+        "problem_name": "Find the maximum and minimum element in an array",
+        "problem_difficulty": "easy",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "gfg", "link": "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/" }
+        ]
+      },
+      {
+        "problem_id": "kth-smallest-element",
+        "problem_name": "Kth smallest element",
+        "problem_difficulty": "medium",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "gfg", "link": "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/" }
+        ]
+      },
+      {
+        "problem_id": "sort-an-array-of-0s-1s-and-2s",
+        "problem_name": "Sort an array of 0s, 1s and 2s",
+        "problem_difficulty": "easy",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "gfg", "link": "https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/" }
+        ]
+      },
+      {
+        "problem_id": "move-all-negative-numbers-to-beginning-and-positive-to-end",
+        "problem_name": "Move all negative numbers to beginning and positive to end",
+        "problem_difficulty": "easy",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "gfg", "link": "https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/" }
+        ]
+      }
+    ],
+    "dsa_sheet_author": "web"
+  },
+  {
+    "dsa_sheet_id": "neetcode-150",
+    "dsa_sheet_name": "NeetCode 150",
+    "dsa_sheet_description": "All hail neetcode!",
+    "dsa_sheet_problems": [
+      {
+        "problem_id": "contains-duplicate",
+        "problem_name": "Contains Duplicate",
+        "problem_difficulty": "easy",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/contains-duplicate/" }
+        ]
+      },
+      {
+        "problem_id": "valid-anagram",
+        "problem_name": "Valid Anagram",
+        "problem_difficulty": "easy",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/valid-anagram/" }
+        ]
+      },
+      {
+        "problem_id": "group-anagrams",
+        "problem_name": "Group Anagrams",
+        "problem_difficulty": "medium",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/group-anagrams/" }
+        ]
+      },
+      {
+        "problem_id": "top-k-frequent-elements",
+        "problem_name": "Top K Frequent Elements",
+        "problem_difficulty": "medium",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/top-k-frequent-elements/" }
+        ]
+      },
+      {
+        "problem_id": "product-of-array-except-self",
+        "problem_name": "Product of Array Except Self",
+        "problem_difficulty": "medium",
+        "problem_status": "unsolved",
+        "problem_platforms": [
+          { "name": "ltc", "link": "https://leetcode.com/problems/product-of-array-except-self/" }
         ]
       }
     ],
