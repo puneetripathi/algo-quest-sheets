@@ -1,56 +1,476 @@
 [
   {
-    "dsa_sheet_id": "blind-75",
-    "dsa_sheet_name": "Blind 75",
-    "dsa_sheet_description": "This is blind 75 sde sheet",
-    "dsa_sheet_problems": [
-      {
-        "problem_id": "two-sum",
-        "problem_name": "Two Sum",
-        "problem_difficulty": "easy",
-        "problem_status": "solved",
-        "problem_platforms": [
-          { "name": "ltc", "link": "https://leetcode.com/problems/two-sum" }
-        ]
-      },
-      {
-        "problem_id": "longest-substring-without-repeating-characters",
-        "problem_name": "Longest Substring Without Repeating Characters",
-        "problem_difficulty": "medium",
-        "problem_status": "solved",
-        "problem_platforms": [
-          { "name": "ltc", "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters" }
-        ]
-      },
-      {
-        "problem_id": "median-of-two-sorted-arrays",
-        "problem_name": "Median of Two Sorted Arrays",
-        "problem_difficulty": "hard",
-        "problem_status": "unsolved",
-        "problem_platforms": [
-          { "name": "ltc", "link": "https://leetcode.com/problems/median-of-two-sorted-arrays" }
-        ]
-      },
-      {
-        "problem_id": "binary-tree-level-order-traversal",
-        "problem_name": "Binary Tree Level Order Traversal",
-        "problem_difficulty": "medium",
-        "problem_status": "solved",
-        "problem_platforms": [
-          { "name": "ltc", "link": "https://leetcode.com/problems/binary-tree-level-order-traversal" }
-        ]
-      },
-      {
-        "problem_id": "regular-expression-matching",
-        "problem_name": "Regular Expression Matching",
-        "problem_difficulty": "hard",
-        "problem_status": "locked",
-        "problem_platforms": [
-          { "name": "ltc", "link": "https://leetcode.com/problems/regular-expression-matching" }
-        ]
-      }
-    ],
-    "dsa_sheet_author": "web"
+  "dsa_sheet_id": "blind-75",
+  "dsa_sheet_name": "Blind 75",
+  "dsa_sheet_description": "This is blind 75 sde sheet",
+  "dsa_sheet_problems": [
+    {
+      "problem_id": "two-sum",
+      "problem_name": "Two Sum",
+      "problem_difficulty": "easy",
+      "problem_status": "solved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/two-sum" }
+      ]
+    },
+    {
+      "problem_id": "best-time-to-buy-and-sell-stock",
+      "problem_name": "Best Time to Buy and Sell Stock",
+      "problem_difficulty": "easy",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock" }
+      ]
+    },
+    {
+      "problem_id": "contains-duplicate",
+      "problem_name": "Contains Duplicate",
+      "problem_difficulty": "easy",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/contains-duplicate" }
+      ]
+    },
+    {
+      "problem_id": "product-of-array-except-self",
+      "problem_name": "Product of Array Except Self",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/product-of-array-except-self" }
+      ]
+    },
+    {
+      "problem_id": "maximum-subarray",
+      "problem_name": "Maximum Subarray",
+      "problem_difficulty": "easy",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/maximum-subarray" }
+      ]
+    },
+    {
+      "problem_id": "maximum-product-subarray",
+      "problem_name": "Maximum Product Subarray",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/maximum-product-subarray" }
+      ]
+    },
+    {
+      "problem_id": "find-minimum-in-rotated-sorted-array",
+      "problem_name": "Find Minimum in Rotated Sorted Array",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array" }
+      ]
+    },
+    {
+      "problem_id": "search-in-rotated-sorted-array",
+      "problem_name": "Search in Rotated Sorted Array",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/search-in-rotated-sorted-array" }
+      ]
+    },
+    {
+      "problem_id": "3sum",
+      "problem_name": "3Sum",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/3sum" }
+      ]
+    },
+    {
+      "problem_id": "longest-substring-without-repeating-characters",
+      "problem_name": "Longest Substring Without Repeating Characters",
+      "problem_difficulty": "medium",
+      "problem_status": "solved",
+      "problem_platforms": [
+        {
+          "name": "ltc",
+          "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
+        }
+      ]
+    },
+    {
+      "problem_id": "longest-palindromic-substring",
+      "problem_name": "Longest Palindromic Substring",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/longest-palindromic-substring" }
+      ]
+    },
+    {
+      "problem_id": "valid-anagram",
+      "problem_name": "Valid Anagram",
+      "problem_difficulty": "easy",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/valid-anagram" }
+      ]
+    },
+    {
+      "problem_id": "group-anagrams",
+      "problem_name": "Group Anagrams",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/group-anagrams" }
+      ]
+    },
+    {
+      "problem_id": "valid-parentheses",
+      "problem_name": "Valid Parentheses",
+      "problem_difficulty": "easy",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/valid-parentheses" }
+      ]
+    },
+    {
+      "problem_id": "merge-two-sorted-lists",
+      "problem_name": "Merge Two Sorted Lists",
+      "problem_difficulty": "easy",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/merge-two-sorted-lists" }
+      ]
+    },
+    {
+      "problem_id": "linked-list-cycle",
+      "problem_name": "Linked List Cycle",
+      "problem_difficulty": "easy",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/linked-list-cycle" }
+      ]
+    },
+    {
+      "problem_id": "reverse-linked-list",
+      "problem_name": "Reverse Linked List",
+      "problem_difficulty": "easy",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/reverse-linked-list" }
+      ]
+    },
+    {
+      "problem_id": "binary-tree-inorder-traversal",
+      "problem_name": "Binary Tree Inorder Traversal",
+      "problem_difficulty": "easy",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        {
+          "name": "ltc",
+          "link": "https://leetcode.com/problems/binary-tree-inorder-traversal"
+        }
+      ]
+    },
+    {
+      "problem_id": "validate-binary-search-tree",
+      "problem_name": "Validate Binary Search Tree",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        {
+          "name": "ltc",
+          "link": "https://leetcode.com/problems/validate-binary-search-tree"
+        }
+      ]
+    },
+    {
+      "problem_id": "binary-tree-level-order-traversal",
+      "problem_name": "Binary Tree Level Order Traversal",
+      "problem_difficulty": "medium",
+      "problem_status": "solved",
+      "problem_platforms": [
+        {
+          "name": "ltc",
+          "link": "https://leetcode.com/problems/binary-tree-level-order-traversal"
+        }
+      ]
+    },
+    {
+      "problem_id": "serialize-and-deserialize-binary-tree",
+      "problem_name": "Serialize and Deserialize Binary Tree",
+      "problem_difficulty": "hard",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        {
+          "name": "ltc",
+          "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
+        }
+      ]
+    },
+    {
+      "problem_id": "lowest-common-ancestor-of-a-binary-search-tree",
+      "problem_name": "Lowest Common Ancestor of a Binary Search Tree",
+      "problem_difficulty": "easy",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        {
+          "name": "ltc",
+          "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree"
+        }
+      ]
+    },
+    {
+      "problem_id": "climbing-stairs",
+      "problem_name": "Climbing Stairs",
+      "problem_difficulty": "easy",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/climbing-stairs" }
+      ]
+    },
+    {
+      "problem_id": "coin-change",
+      "problem_name": "Coin Change",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/coin-change" }
+      ]
+    },
+    {
+      "problem_id": "longest-increasing-subsequence",
+      "problem_name": "Longest Increasing Subsequence",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        {
+          "name": "ltc",
+          "link": "https://leetcode.com/problems/longest-increasing-subsequence"
+        }
+      ]
+    },
+    {
+      "problem_id": "longest-common-subsequence",
+      "problem_name": "Longest Common Subsequence",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        {
+          "name": "ltc",
+          "link": "https://leetcode.com/problems/longest-common-subsequence"
+        }
+      ]
+    },
+    {
+      "problem_id": "word-break",
+      "problem_name": "Word Break",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/word-break" }
+      ]
+    },
+    {
+      "problem_id": "number-of-islands",
+      "problem_name": "Number of Islands",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/number-of-islands" }
+      ]
+    },
+    {
+      "problem_id": "course-schedule",
+      "problem_name": "Course Schedule",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/course-schedule" }
+      ]
+    },
+    {
+      "problem_id": "clone-graph",
+      "problem_name": "Clone Graph",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/clone-graph" }
+      ]
+    },
+    {
+      "problem_id": "subsets",
+      "problem_name": "Subsets",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/subsets" }
+      ]
+    },
+    {
+      "problem_id": "word-search",
+      "problem_name": "Word Search",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/word-search" }
+      ]
+    },
+    {
+      "problem_id": "top-k-frequent-elements",
+      "problem_name": "Top K Frequent Elements",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        {
+          "name": "ltc",
+          "link": "https://leetcode.com/problems/top-k-frequent-elements"
+        }
+      ]
+    },
+    {
+      "problem_id": "kth-largest-element-in-an-array",
+      "problem_name": "Kth Largest Element in an Array",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        {
+          "name": "ltc",
+          "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
+        }
+      ]
+    },
+    {
+      "problem_id": "find-median-from-data-stream",
+      "problem_name": "Find Median from Data Stream",
+      "problem_difficulty": "hard",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        {
+          "name": "ltc",
+          "link": "https://leetcode.com/problems/find-median-from-data-stream"
+        }
+      ]
+    },
+    {
+      "problem_id": "sliding-window-maximum",
+      "problem_name": "Sliding Window Maximum",
+      "problem_difficulty": "hard",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        {
+          "name": "ltc",
+          "link": "https://leetcode.com/problems/sliding-window-maximum"
+        }
+      ]
+    },
+    {
+      "problem_id": "merge-intervals",
+      "problem_name": "Merge Intervals",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/merge-intervals" }
+      ]
+    },
+    {
+      "problem_id": "insert-interval",
+      "problem_name": "Insert Interval",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/insert-interval" }
+      ]
+    },
+    {
+      "problem_id": "non-overlapping-intervals",
+      "problem_name": "Non-overlapping Intervals",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/non-overlapping-intervals" }
+      ]
+    },
+    {
+      "problem_id": "meeting-rooms",
+      "problem_name": "Meeting Rooms",
+      "problem_difficulty": "easy",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/meeting-rooms" }
+      ]
+    },
+    {
+      "problem_id": "meeting-rooms-ii",
+      "problem_name": "Meeting Rooms II",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/meeting-rooms-ii" }
+      ]
+    },
+    {
+      "problem_id": "trapping-rain-water",
+      "problem_name": "Trapping Rain Water",
+      "problem_difficulty": "hard",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/trapping-rain-water" }
+      ]
+    },
+    {
+      "problem_id": "jump-game",
+      "problem_name": "Jump Game",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/jump-game" }
+      ]
+    },
+    {
+      "problem_id": "word-ladder",
+      "problem_name": "Word Ladder",
+      "problem_difficulty": "hard",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/word-ladder" }
+      ]
+    },
+    {
+      "problem_id": "lru-cache",
+      "problem_name": "LRU Cache",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/lru-cache" }
+      ]
+    },
+    {
+      "problem_id": "median-of-two-sorted-arrays",
+      "problem_name": "Median of Two Sorted Arrays",
+      "problem_difficulty": "hard",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        {
+          "name": "ltc",
+          "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
+        }
+      ]
+    },
+    {
+      "problem_id": "regular-expression-matching",
+      "problem_name": "Regular Expression Matching",
+      "problem_difficulty": "hard",
+      "problem_status": "locked",
+      "problem_platforms": [
+        {
+          "name": "ltc",
+          "link": "https://leetcode.com/problems/regular-expression-matching"
+        }
+      ]
+    }
+  ],
+  "dsa_sheet_author": "web"
   },
   {
     "dsa_sheet_id": "striver-sde-sheet",
