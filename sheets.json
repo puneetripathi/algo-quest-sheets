@@ -86,15 +86,30 @@
       ]
     },
     {
+      "problem_id": "container-with-most-water",
+      "problem_name": "Container With Most Water",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/container-with-most-water" }
+      ]
+    },
+    {
+      "problem_id": "trapping-rain-water",
+      "problem_name": "Trapping Rain Water",
+      "problem_difficulty": "hard",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/trapping-rain-water" }
+      ]
+    },
+    {
       "problem_id": "longest-substring-without-repeating-characters",
       "problem_name": "Longest Substring Without Repeating Characters",
       "problem_difficulty": "medium",
       "problem_status": "solved",
       "problem_platforms": [
-        {
-          "name": "ltc",
-          "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters"
-        }
+        { "name": "ltc", "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters" }
       ]
     },
     {
@@ -161,15 +176,30 @@
       ]
     },
     {
+      "problem_id": "remove-nth-node-from-end-of-list",
+      "problem_name": "Remove Nth Node From End of List",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list" }
+      ]
+    },
+    {
+      "problem_id": "reorder-list",
+      "problem_name": "Reorder List",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/reorder-list" }
+      ]
+    },
+    {
       "problem_id": "binary-tree-inorder-traversal",
       "problem_name": "Binary Tree Inorder Traversal",
       "problem_difficulty": "easy",
       "problem_status": "unsolved",
       "problem_platforms": [
-        {
-          "name": "ltc",
-          "link": "https://leetcode.com/problems/binary-tree-inorder-traversal"
-        }
+        { "name": "ltc", "link": "https://leetcode.com/problems/binary-tree-inorder-traversal" }
       ]
     },
     {
@@ -178,10 +208,7 @@
       "problem_difficulty": "medium",
       "problem_status": "unsolved",
       "problem_platforms": [
-        {
-          "name": "ltc",
-          "link": "https://leetcode.com/problems/validate-binary-search-tree"
-        }
+        { "name": "ltc", "link": "https://leetcode.com/problems/validate-binary-search-tree" }
       ]
     },
     {
@@ -190,10 +217,7 @@
       "problem_difficulty": "medium",
       "problem_status": "solved",
       "problem_platforms": [
-        {
-          "name": "ltc",
-          "link": "https://leetcode.com/problems/binary-tree-level-order-traversal"
-        }
+        { "name": "ltc", "link": "https://leetcode.com/problems/binary-tree-level-order-traversal" }
       ]
     },
     {
@@ -202,10 +226,7 @@
       "problem_difficulty": "hard",
       "problem_status": "unsolved",
       "problem_platforms": [
-        {
-          "name": "ltc",
-          "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
-        }
+        { "name": "ltc", "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree" }
       ]
     },
     {
@@ -214,9 +235,36 @@
       "problem_difficulty": "easy",
       "problem_status": "unsolved",
       "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree" }
+      ]
+    },
+    {
+      "problem_id": "binary-tree-preorder-traversal",
+      "problem_name": "Binary Tree Preorder Traversal",
+      "problem_difficulty": "easy",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/binary-tree-preorder-traversal" }
+      ]
+    },
+    {
+      "problem_id": "binary-tree-postorder-traversal",
+      "problem_name": "Binary Tree Postorder Traversal",
+      "problem_difficulty": "easy",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/binary-tree-postorder-traversal" }
+      ]
+    },
+    {
+      "problem_id": "construct-binary-tree-from-preorder-and-inorder-traversal",
+      "problem_name": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
         {
           "name": "ltc",
-          "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree"
+          "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal"
         }
       ]
     },
@@ -272,21 +320,57 @@
       ]
     },
     {
+      "problem_id": "combination-sum",
+      "problem_name": "Combination Sum",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/combination-sum" }
+      ]
+    },
+    {
+      "problem_id": "combination-sum-ii",
+      "problem_name": "Combination Sum II",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/combination-sum-ii" }
+      ]
+    },
+    {
+      "problem_id": "unique-paths",
+      "problem_name": "Unique Paths",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/unique-paths" }
+      ]
+    },
+    {
+      "problem_id": "edit-distance",
+      "problem_name": "Edit Distance",
+      "problem_difficulty": "hard",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/edit-distance" }
+      ]
+    },
+    {
+      "problem_id": "house-robber",
+      "problem_name": "House Robber",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/house-robber" }
+      ]
+    },
+    {
       "problem_id": "number-of-islands",
       "problem_name": "Number of Islands",
       "problem_difficulty": "medium",
       "problem_status": "unsolved",
       "problem_platforms": [
         { "name": "ltc", "link": "https://leetcode.com/problems/number-of-islands" }
-      ]
-    },
-    {
-      "problem_id": "course-schedule",
-      "problem_name": "Course Schedule",
-      "problem_difficulty": "medium",
-      "problem_status": "unsolved",
-      "problem_platforms": [
-        { "name": "ltc", "link": "https://leetcode.com/problems/course-schedule" }
       ]
     },
     {
@@ -299,6 +383,36 @@
       ]
     },
     {
+      "problem_id": "course-schedule",
+      "problem_name": "Course Schedule",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/course-schedule" }
+      ]
+    },
+    {
+      "problem_id": "course-schedule-ii",
+      "problem_name": "Course Schedule II",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/course-schedule-ii" }
+      ]
+    },
+    {
+      "problem_id": "pacific-atlantic-water-flow",
+      "problem_name": "Pacific Atlantic Water Flow",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        {
+          "name": "ltc",
+          "link": "https://leetcode.com/problems/pacific-atlantic-water-flow"
+        }
+      ]
+    },
+    {
       "problem_id": "subsets",
       "problem_name": "Subsets",
       "problem_difficulty": "medium",
@@ -308,10 +422,37 @@
       ]
     },
     {
+      "problem_id": "permutations",
+      "problem_name": "Permutations",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/permutations" }
+      ]
+    },
+    {
+      "problem_id": "permutations-ii",
+      "problem_name": "Permutations II",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/permutations-ii" }
+      ]
+    },
+    {
+      "problem_id": "combinations",
+      "problem_name": "Combinations",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/combinations" }
+      ]
+    },
+    {
       "problem_id": "word-search",
       "problem_name": "Word Search",
       "problem_difficulty": "medium",
-      "problem_status": "unsolved",
+      "problem_status": "solved",
       "problem_platforms": [
         { "name": "ltc", "link": "https://leetcode.com/problems/word-search" }
       ]
@@ -338,6 +479,15 @@
           "name": "ltc",
           "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
         }
+      ]
+    },
+    {
+      "problem_id": "merge-k-sorted-lists",
+      "problem_name": "Merge k Sorted Lists",
+      "problem_difficulty": "hard",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/merge-k-sorted-lists" }
       ]
     },
     {
@@ -392,6 +542,15 @@
       ]
     },
     {
+      "problem_id": "search-a-2d-matrix",
+      "problem_name": "Search a 2D Matrix",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/search-a-2d-matrix" }
+      ]
+    },
+    {
       "problem_id": "meeting-rooms",
       "problem_name": "Meeting Rooms",
       "problem_difficulty": "easy",
@@ -410,21 +569,21 @@
       ]
     },
     {
-      "problem_id": "trapping-rain-water",
-      "problem_name": "Trapping Rain Water",
-      "problem_difficulty": "hard",
-      "problem_status": "unsolved",
-      "problem_platforms": [
-        { "name": "ltc", "link": "https://leetcode.com/problems/trapping-rain-water" }
-      ]
-    },
-    {
       "problem_id": "jump-game",
       "problem_name": "Jump Game",
       "problem_difficulty": "medium",
       "problem_status": "unsolved",
       "problem_platforms": [
         { "name": "ltc", "link": "https://leetcode.com/problems/jump-game" }
+      ]
+    },
+    {
+      "problem_id": "jump-game-ii",
+      "problem_name": "Jump Game II",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/jump-game-ii" }
       ]
     },
     {
@@ -466,6 +625,87 @@
         {
           "name": "ltc",
           "link": "https://leetcode.com/problems/regular-expression-matching"
+        }
+      ]
+    },
+    {
+      "problem_id": "wildcard-matching",
+      "problem_name": "Wildcard Matching",
+      "problem_difficulty": "hard",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/wildcard-matching" }
+      ]
+    },
+    {
+      "problem_id": "find-peak-element",
+      "problem_name": "Find Peak Element",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/find-peak-element" }
+      ]
+    },
+    {
+      "problem_id": "kth-smallest-element-in-a-sorted-matrix",
+      "problem_name": "Kth Smallest Element in a Sorted Matrix",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        {
+          "name": "ltc",
+          "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix"
+        }
+      ]
+    },
+    {
+      "problem_id": "alien-dictionary",
+      "problem_name": "Alien Dictionary",
+      "problem_difficulty": "hard",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/alien-dictionary" }
+      ]
+    },
+    {
+      "problem_id": "sudoku-solver",
+      "problem_name": "Sudoku Solver",
+      "problem_difficulty": "hard",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/sudoku-solver" }
+      ]
+    },
+    {
+      "problem_id": "word-pattern",
+      "problem_name": "Word Pattern",
+      "problem_difficulty": "easy",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        { "name": "ltc", "link": "https://leetcode.com/problems/word-pattern" }
+      ]
+    },
+    {
+      "problem_id": "number-of-connected-components-in-an-undirected-graph",
+      "problem_name": "Number of Connected Components in an Undirected Graph",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        {
+          "name": "ltc",
+          "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph"
+        }
+      ]
+    },
+    {
+      "problem_id": "find-the-duplicate-number",
+      "problem_name": "Find the Duplicate Number",
+      "problem_difficulty": "medium",
+      "problem_status": "unsolved",
+      "problem_platforms": [
+        {
+          "name": "ltc",
+          "link": "https://leetcode.com/problems/find-the-duplicate-number"
         }
       ]
     }
